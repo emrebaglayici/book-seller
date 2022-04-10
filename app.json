@@ -1,5 +1,5 @@
 {
-  "name": "eb-book-seller",
+  "name": "eb-spring-book-seller",
   "buildpacks": [
     {
       "url": "heroku/gradle"
