@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface BookService {
 
-    void saveBook(Book book);
+    Book saveBook(Book book);
 
     void deleteBook(Long id);
 
