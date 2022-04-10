@@ -1,5 +1,5 @@
 {
-  "name": "sha-book-seller",
+  "name": "eb-book-seller",
   "buildpacks": [
     {
       "url": "heroku/gradle"
